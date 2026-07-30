@@ -22,7 +22,7 @@ More is on the bench — the den ships continuously. Watch this org or join the 
 
 - Writing and build logs: [automaton.run](https://automaton.run)
 - Site: [robotden.dev](https://robotden.dev)
-- Contact: bobby@tafy.ai
+- Contact: bobby@robotden.dev
 
 ---
 *The den is run by [Bobby Larson](https://github.com/karma0). Commercial work on top of den projects lives at [Tafy Labs](https://tafylabs.io) — builders hang out here; buyers sign there. Nobody's confused.*
